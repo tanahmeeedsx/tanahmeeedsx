@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ TANJIM AHMED TOMAL
+# TANJIM AHMED TOMAL
 ### 🔻 Junior DevOps Engineer 🔻
 **Automating & Securing Modern Infrastructure**
 
