@@ -1,7 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=TANJIM%20AHMED%20TOMAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Automating%20%26%20Securing%20Modern%20Infrastructure&descAlignY=58&descSize=18" />
+<div align="center">
+
+# ⚙️ TANJIM AHMED TOMAL
+### 🔻 Junior DevOps Engineer 🔻
+**Automating & Securing Modern Infrastructure**
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=DevOps+Intern+%40+Springer+Capital;Linux+%7C+Git+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Learning+AWS+%7C+Terraform+%7C+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=DevOps+Intern+%40+Springer+Capital;Linux+%7C+Git+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Networking+%2B+System+Fundamentals+%2B+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,13 +16,16 @@
   <img src="https://komarev.com/ghpvc/?username=tanahmeeedsx&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" />
 </p>
 
+---
+
 <div align="center">
 
 |  |  |
 |---|---|
-| 🏢 **Currently** | DevOps Intern @ **Springer Capital**, Dhaka |
-| 🖥️ **Foundation** | Windows Server Administration · Active Directory · Networking · IT Support |
+| 🏢 **Currently** | DevOps Intern @ **Springer Capital** |
+| 🧱 **Foundation** | Networking · Computer Fundamentals · System Administration |
 | 🌱 **Now Learning** | CI/CD Automation · Docker · Kubernetes · AWS · Terraform |
+| 🧠 **DevOps Focus** | Infrastructure as Code · Monitoring & Logging · Automated Deployments |
 | 🧭 **Philosophy** | Build it, break it, fix it — real systems over theory |
 | 📍 **Based in** | Mohammadpur, Dhaka, Bangladesh |
 
@@ -63,6 +72,20 @@ Hands-on labs covering Windows Admin, Networking, PowerShell & troubleshooting.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**🔀 [Git & GitHub Workflow](https://github.com/tanahmeeedsx/git-github-workflow)**
+Practical branching, merging, pull requests, conflict resolution & CI/CD pipeline exercises.
+
+</td>
+<td width="50%">
+
+**⚙️ [GitHub Actions Testing](https://github.com/tanahmeeedsx/github-actions-testing)**
+Automated testing pipelines for JavaScript projects using GitHub Actions.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -78,8 +101,13 @@ Hands-on labs covering Windows Admin, Networking, PowerShell & troubleshooting.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanahmeeedsx&theme=dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanahmeeedsx&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" width="95%"/>
+  <a href="https://www.linkedin.com/in/tanahmedd" target="_blank"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tanjimahmed450@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -88,4 +116,6 @@ Hands-on labs covering Windows Admin, Networking, PowerShell & troubleshooting.
 
 > Growing into a well-rounded DevOps Engineer who can **build, automate, secure, and scale** infrastructure — not by copying someone else's stack, but by earning every line of it through real projects.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" />
+<div align="center">
+<sub>💡 Open to conversations on DevOps, Cloud Infrastructure, Linux, Automation & Networking</sub>
+</div>
