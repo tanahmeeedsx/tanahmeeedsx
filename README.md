@@ -22,7 +22,7 @@
 
 |  |  |
 |---|---|
-| 🏢 **Currently** | DevOps Intern @ **Springer Capital** |
+| 🏢 **Currently** | DevOps Intern at **Springer Capital** |
 | 🧱 **Foundation** | Networking · Computer Fundamentals · System Administration |
 | 🌱 **Now Learning** | CI/CD Automation · Docker · Kubernetes · AWS · Terraform |
 | 🧠 **DevOps Focus** | Infrastructure as Code · Monitoring & Logging · Automated Deployments |
