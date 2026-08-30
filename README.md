@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-   _____ _______   ______  ____   _____ 
-  |  __ \__   __| |  ____|/ __ \ / ____|
-  | |  | | | |    | |__  | |  | | (___  
-  | |  | | | |    |  __| | |  | |\___ \ 
-  | |__| | | |    | |____| |__| |____) |
-  |_____/  |_|    |______|\____/|_____/ 
-```
-
 # TANJIM AHMED TOMAL
 
 ### 🔻 Junior DevOps Engineer 🔻
@@ -90,7 +81,7 @@
 <td align="center" width="400px">
 
 ### ☁️ DevOps and Cloud Engineering
-**Certification**
+**BongoDev**
 
 </td>
 </tr>
