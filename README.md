@@ -29,7 +29,7 @@
 | 🌱 **Now Learning** | CI/CD Automation · Docker · Kubernetes · AWS · Terraform              |
 | 🧠 **DevOps Focus** | Infrastructure as Code · Monitoring & Logging · Automated Deployments |
 | 🧭 **Philosophy**   | Build it, break it, fix it — real systems over theory                 |
-| 📍 **Based in**     | Mohammadpur, Dhaka, Bangladesh                                        |
+| 📍 **Based in**     | Dhaka, Bangladesh                                                     |
 
 </div>
 
