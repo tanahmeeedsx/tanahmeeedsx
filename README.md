@@ -43,6 +43,24 @@
 
 ---
 
+## 📜 Certifications
+
+- 🎓 **DevOps and Cloud Engineering** Certification
+
+---
+
+## 🗺️ Career Timeline
+
+```
+2022 ──── Started B.Sc. in Computer Engineering, BUBT
+2025 ──── Graduated · Began IT Support & Networking work
+2025 ──── Junior Executive, SkyTech Solutions
+2026 ──── DevOps Intern @ Springer Capital  ← You are here
+2026+ ─── AWS · Kubernetes · Terraform · DevSecOps
+```
+
+---
+
 ## 🚀 Featured Work
 
 <table>
@@ -100,13 +118,7 @@ Automated testing pipelines for JavaScript projects using GitHub Actions.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=c9d1d9" />
-</p>
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanahmeeedsx&theme=dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
