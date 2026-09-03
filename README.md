@@ -2,7 +2,7 @@
 
 # TANJIM AHMED TOMAL
 
-### 🔻 Junior DevOps Engineer 🔻
+### 🔻 DevOps Intern 🔻
 
 **Automating & Securing Modern Infrastructure**
 
