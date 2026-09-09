@@ -39,7 +39,7 @@
 | 🧠 **DevOps Focus** | Infrastructure as Code · Monitoring & Logging · Automated Deployments |
 | ☁️ **Cloud**        | Amazon EC2 · Application Deployment · Test Automation                 |
 | 🧭 **Philosophy**   | Build it, break it, fix it — real systems over theory                 |
-| 📍 **Based in**     | Dhaka, Bangladesh                                                      |
+| 📍 **Based in**     | Dhaka, Bangladesh                                                     |
 
 </div>
 
@@ -81,6 +81,7 @@
 <td align="center" width="400px">
 
 ### ☁️ DevOps and Cloud Engineering
+
 **BongoDev**
 
 </td>
@@ -106,14 +107,14 @@
 <tr>
 <td width="50%">
 
-**🔧 [DevOps Intern — Final Assessment](https://github.com/tanahmeeedsx/springer-capital-devops-intern-final-assesment)**
+**🔧 [DevOps Deployment Pipeline](https://github.com/tanahmeeedsx/devops-deployment-pipeline)**
 
 Full DevOps workflow using Linux, Git, Docker, CI/CD, HashiCorp Nomad & Grafana Loki for monitoring.
 
 </td>
 <td width="50%">
 
-**🖥️ [Enterprise File Server](https://github.com/tanahmeeedsx/windows-server-2022-enterprise-file-server)**
+**🖥️ [Windows File Server](https://github.com/tanahmeeedsx/windows-file-server)**
 
 Windows Server 2022 setup with Active Directory, NTFS permissions, SMB shares & FSRM.
 
@@ -147,7 +148,7 @@ Terminal game in Node.js with an AI opponent, Jest tests, and a full GitHub Acti
 </td>
 <td width="50%">
 
-**📝 [System Administration Notes](https://github.com/tanahmeeedsx/system-administration-notes)**
+**📝 [System Administration](https://github.com/tanahmeeedsx/system-administration)**
 
 Hands-on labs covering Windows Admin, Networking, PowerShell & troubleshooting.
 
