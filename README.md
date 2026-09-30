@@ -10,8 +10,8 @@
 
 <a href="https://www.linkedin.com/in/tanahmedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tanjimahmed450@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
-<a href="PORTFOLIO_URL/resume.pdf"><img src="https://img.shields.io/badge/Resume-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://tanjim-ahmed-devops-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+<a href="https://tanjim-ahmed-devops-portfolio.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 
 <br/>
 
@@ -26,20 +26,20 @@
 
 <br/>
 
-## 🧭 At a Glance
+## At a Glance
 
 <div align="center">
 
 |                        |                                                                                   |
 | ---------------------- | --------------------------------------------------------------------------------- |
-| 🏢 **Currently**       | DevOps Intern at **Springer Capital** · Remote (Chicago, USA)                     |
-| 🧱 **Foundation**      | Git & GitHub workflows · Linux & Bash · Docker · CI/CD                            |
-| 🎯 **Focus**           | **Automating reliability**: pipelines, health checks, logging and alerting        |
-| ☁️ **Cloud**           | AWS: EC2 · ECS Fargate · ECR · VPC · IAM · Load Balancers · Security Groups        |
-| 🌱 **Now Learning**    | Kubernetes · Terraform · HashiCorp Nomad · DevSecOps                              |
-| 🧠 **Philosophy**      | Reliability isn't an accident. Automate it, observe it, then keep improving it.   |
-| 🎯 **Open to**         | DevOps Engineer · Cloud Engineer · SRE · Platform Engineer                        |
-| 📍 **Based in**        | Dhaka, Bangladesh · working with engineers across countries                       |
+| **Currently**       | DevOps Intern at **Springer Capital** · Remote (Chicago, USA)                     |
+| **Foundation**      | Git & GitHub workflows · Linux & Bash · Docker · CI/CD                            |
+| **Focus**           | **Automating reliability**: pipelines, health checks, logging and alerting        |
+| **Cloud**           | AWS: EC2 · ECS Fargate · ECR · VPC · IAM · Load Balancers · Security Groups        |
+| **Now Learning**    | Kubernetes · Terraform · HashiCorp Nomad · DevSecOps                              |
+| **Philosophy**      | Reliability isn't an accident. Automate it, observe it, then keep improving it.   |
+| **Open to**         | DevOps Engineer · Cloud Engineer · SRE · Platform Engineer                        |
+| **Based in**        | Dhaka, Bangladesh · working with engineers across countries                       |
 
 </div>
 
@@ -280,7 +280,7 @@ I'm looking for **DevOps, Cloud, SRE and Platform Engineering** opportunities wh
 
 <a href="https://www.linkedin.com/in/tanahmedd"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:tanjimahmed450@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello by email" /></a>
-<a href="PORTFOLIO_URL/resume.pdf"><img src="https://img.shields.io/badge/-View%20Resume-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View resume" /></a>
+<a href="https://tanjim-ahmed-devops-portfolio.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/-View%20Resume-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View resume" /></a>
 
 <br/><br/>
 
