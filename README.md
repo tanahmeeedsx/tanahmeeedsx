@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,55:93c5fd,100:38bdf8&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=1e3a8a&fontAlignY=38&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=60&animation=fadeIn" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=60&animation=fadeIn" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
 
 <a href="https://github.com/tanahmeeedsx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=780&height=40&lines=DevOps+Engineer+Intern+%40+Springer+Capital+%7C+Wilmette%2C+Illinois%2C+USA;Automate+%C2%B7+Deploy+%C2%B7+Observe+%C2%B7+Secure;AWS%2C+Docker%2C+Kubernetes%2C+DevSecOps%2C+AIOps+and+AI+Agents" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=000000&center=true&vCenter=true&width=780&height=40&lines=DevOps+Engineer+Intern+%40+Springer+Capital+%7C+Wilmette%2C+Illinois%2C+USA;Automate+%C2%B7+Deploy+%C2%B7+Observe+%C2%B7+Secure;AWS%2C+Docker%2C+Kubernetes%2C+DevSecOps%2C+AIOps+and+AI+Agents" alt="Typing animation" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
 | :--- | :--- |
 | **Aug 2026 – Present** | DevOps Engineer Intern @ **Springer Capital**: n8n automation, local LLM serving, Grafana Loki audits |
 | **Aug 2026 – Present** | DevOps and Cloud Engineering bootcamp @ **bongoDev** |
-| **Nov 2025 – Feb 2026** | Junior Executive (Telesales) @ **SkyTech Solutions** |
+| **Nov 2025 – Feb 2026** | Junior Executive @ **SkyTech Solutions** |
 | **Dec 2021 – Dec 2025** | B.Sc. in Computer Engineering @ **BUBT** |
 
 <br/>
