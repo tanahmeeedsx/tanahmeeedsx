@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=46&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=70" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,100:0ea5e9&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=46&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=70" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
 
 <a href="https://github.com/tanahmeeedsx">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=54&section=header&text=DevOps%20Engineer%20Intern%20%40%20Springer%20Capital%20%7C%20Wilmette%2C%20Illinois%2C%20USA&fontSize=20&fontColor=1e3a8a&fontAlignY=62" alt="DevOps Engineer Intern at Springer Capital, Wilmette, Illinois, USA" width="100%" />
@@ -183,6 +183,6 @@ Looking for **DevOps, Cloud, SRE and Platform Engineering** roles where I can sh
 
 <sub>🛠️ <b>Build it. Ship it. Watch it. Improve it.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:0ea5e9&height=120&section=header&text=Build%20it.%20Ship%20it.%20Watch%20it.%20Improve%20it.&fontSize=26&fontColor=ffffff&fontAlignY=62" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,100:0ea5e9&height=120&section=header&text=Build%20it.%20Ship%20it.%20Watch%20it.%20Improve%20it.&fontSize=26&fontColor=ffffff&fontAlignY=62" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
 
 </div>
