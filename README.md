@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=60&animation=fadeIn" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
+<img src="header.svg" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
 
 <a href="https://github.com/tanahmeeedsx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=000000&center=true&vCenter=true&width=780&height=40&lines=DevOps+Engineer+Intern+%40+Springer+Capital+%7C+Wilmette%2C+Illinois%2C+USA;Automate+%C2%B7+Deploy+%C2%B7+Observe+%C2%B7+Secure;AWS%2C+Docker%2C+Kubernetes%2C+DevSecOps%2C+AIOps+and+AI+Agents" alt="Typing animation" />
@@ -179,6 +179,6 @@ Looking for **DevOps, Cloud, SRE and Platform Engineering** roles where I can sh
 
 <sub>🛠️ <b>Build it. Ship it. Watch it. Improve it.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,55:1d4ed8,100:38bdf8&height=120&section=footer" alt="" width="100%" />
+<img src="footer.svg" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
 
 </div>
