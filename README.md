@@ -59,41 +59,11 @@
 
 ## Featured Work
 
-### 🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)
-
-MERN incident and on-call tracker on **AWS EC2**. Deployed to Ubuntu 24.04 with Security Groups, SSH key authentication and MongoDB under systemd.
-
-`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash`
-
-### ☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)
-
-Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions.
-
-`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions`
-
-### 🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)
-
-Dockerized expense app on **AWS EC2**. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron, restore-tested.
-
-`Docker` `Docker Compose` `AWS EC2` `S3` `IAM`
-
-### 📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)
-
-AIOps load-testing platform. A load test reaching **170K users**, with CloudWatch dashboards, alarms and SNS alerts. EC2 provisioned with Terraform.
-
-`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis`
-
-### 🛡️ [DevSecOps Agent](https://github.com/tanahmeeedsx/devsecops-agent)
-
-Container and cloud security platform. Trivy image scans, container health, and AWS inspection across ECS, ECR, Security Groups, S3 and IAM.
-
-`Trivy` `Docker` `AWS SSM` `ECS` `ECR` `IAM`
-
-### 🤖 [Kleos · LLM DevOps Assistant](https://github.com/tanahmeeedsx/LLM-chatbot-assistant)
-
-MCP-powered chatbot for CI/CD troubleshooting. Investigates GitHub Actions failures and analyzes job logs using a local Qwen 2.5 model via Ollama.
-
-`Python` `Streamlit` `MCP` `Ollama` `GitHub CLI`
+| Project | Project |
+|---|---|
+| ### 🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)<br>MERN incident and on-call tracker on **AWS EC2**. Deployed to Ubuntu 24.04 with Security Groups, SSH key authentication and MongoDB under systemd.<br><br>`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash` | ### ☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)<br>Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions.<br><br>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions` |
+| ### 🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)<br>Dockerized expense app on **AWS EC2**. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron, restore-tested.<br><br>`Docker` `Docker Compose` `AWS EC2` `S3` `IAM` | ### 📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)<br>AIOps load-testing platform. A load test reaching **170K users**, with CloudWatch dashboards, alarms and SNS alerts. EC2 provisioned with Terraform.<br><br>`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis` |
+| ### 🛡️ [DevSecOps Agent](https://github.com/tanahmeeedsx/devsecops-agent)<br>Container and cloud security platform. Trivy image scans, container health, and AWS inspection across ECS, ECR, Security Groups, S3 and IAM.<br><br>`Trivy` `Docker` `AWS SSM` `ECS` `ECR` `IAM` | ### 🤖 [Kleos · LLM DevOps Assistant](https://github.com/tanahmeeedsx/LLM-chatbot-assistant)<br>MCP-powered chatbot for CI/CD troubleshooting. Investigates GitHub Actions failures and analyzes job logs using a local Qwen 2.5 model via Ollama.<br><br>`Python` `Streamlit` `MCP` `Ollama` `GitHub CLI` |
 
 <br/>
 
