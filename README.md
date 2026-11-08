@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0c1a33&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=46&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=70" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=46&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=70" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
 
 <a href="https://github.com/tanahmeeedsx">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=54&section=header&text=DevOps%20Engineer%20Intern%20%40%20Springer%20Capital%20%7C%20Wilmette%2C%20Illinois%2C%20USA&fontSize=20&fontColor=1e3a8a&fontAlignY=62" alt="DevOps Engineer Intern at Springer Capital, Wilmette, Illinois, USA" width="100%" />
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/-commit-475569?style=flat-square&logo=git&logoColor=white" alt="commit" />  →  <img src="https://img.shields.io/badge/-build-1d4ed8?style=flat-square&logo=docker&logoColor=white" alt="build" />  →  <img src="https://img.shields.io/badge/-test-0891b2?style=flat-square&logo=githubactions&logoColor=white" alt="test" />  →  <img src="https://img.shields.io/badge/-scan-6d28d9?style=flat-square&logo=snyk&logoColor=white" alt="scan" />  →  <img src="https://img.shields.io/badge/-deploy-15803d?style=flat-square&logo=amazonaws&logoColor=white" alt="deploy" />  →  <img src="https://img.shields.io/badge/-observe-0e7490?style=flat-square&logo=grafana&logoColor=white" alt="observe" />
+</p>
 
 <br/>
 
@@ -179,6 +183,6 @@ Looking for **DevOps, Cloud, SRE and Platform Engineering** roles where I can sh
 
 <sub>🛠️ <b>Build it. Ship it. Watch it. Improve it.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0c1a33&height=120&section=header&text=Build%20it.%20Ship%20it.%20Watch%20it.%20Improve%20it.&fontSize=26&fontColor=ffffff&fontAlignY=62" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:0ea5e9&height=120&section=header&text=Build%20it.%20Ship%20it.%20Watch%20it.%20Improve%20it.&fontSize=26&fontColor=ffffff&fontAlignY=62" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
 
 </div>
