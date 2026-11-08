@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="header.svg" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0c1a33&height=220&section=header&text=Tanjim%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=46&desc=Automating%20Reliable%20Infrastructure%20at%20Scale&descSize=20&descAlignY=70" alt="Tanjim Ahmed - Automating Reliable Infrastructure at Scale" width="100%" />
 
 <a href="https://github.com/tanahmeeedsx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=000000&center=true&vCenter=true&width=780&height=40&lines=DevOps+Engineer+Intern+%40+Springer+Capital+%7C+Wilmette%2C+Illinois%2C+USA;Automate+%C2%B7+Deploy+%C2%B7+Observe+%C2%B7+Secure;AWS%2C+Docker%2C+Kubernetes%2C+DevSecOps%2C+AIOps+and+AI+Agents" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=54&section=header&text=DevOps%20Engineer%20Intern%20%40%20Springer%20Capital%20%7C%20Wilmette%2C%20Illinois%2C%20USA&fontSize=20&fontColor=1e3a8a&fontAlignY=62" alt="DevOps Engineer Intern at Springer Capital, Wilmette, Illinois, USA" width="100%" />
 </a>
 
 <br/>
@@ -179,6 +179,6 @@ Looking for **DevOps, Cloud, SRE and Platform Engineering** roles where I can sh
 
 <sub>🛠️ <b>Build it. Ship it. Watch it. Improve it.</b></sub>
 
-<img src="footer.svg" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0c1a33&height=120&section=header&text=Build%20it.%20Ship%20it.%20Watch%20it.%20Improve%20it.&fontSize=26&fontColor=ffffff&fontAlignY=62" alt="Build it. Ship it. Watch it. Improve it." width="100%" />
 
 </div>
