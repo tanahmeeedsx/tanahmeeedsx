@@ -1,4 +1,4 @@
- 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f2b50,70:075985,100:0ea5e9&height=260&section=header&text=TANJIM%20AHMED&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEERING%20%7C%20CLOUD%20%7C%20AUTOMATION%20%7C%20RELIABILITY&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Tanjim Ahmed - DevOps Engineering, Cloud, Automation and Reliability"/>
 
@@ -60,7 +60,7 @@
 
 ## Featured Work
 
-| Projects |
+| | |
 |---|---|
 | **🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)**<br/>MERN incident and on-call tracker on **AWS EC2**. Deployed to Ubuntu 24.04 with Security Groups, SSH key authentication and MongoDB under systemd.<br/><br/>`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash` | **☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)**<br/>Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions.<br/><br/>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions` |
 | **🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)**<br/>Dockerized expense app on **AWS EC2**. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron, restore-tested.<br/><br/>`Docker` `Docker Compose` `AWS EC2` `S3` `IAM` | **📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)**<br/>AIOps load-testing platform. A load test reaching **170K users**, with CloudWatch dashboards, alarms and SNS alerts. EC2 provisioned with Terraform.<br/><br/>`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis` |
