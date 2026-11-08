@@ -60,7 +60,7 @@
 
 ## Featured Work
 
-| Project | Project |
+| Projects |
 |---|---|
 | **🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)**<br/>MERN incident and on-call tracker on **AWS EC2**. Deployed to Ubuntu 24.04 with Security Groups, SSH key authentication and MongoDB under systemd.<br/><br/>`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash` | **☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)**<br/>Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions.<br/><br/>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions` |
 | **🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)**<br/>Dockerized expense app on **AWS EC2**. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron, restore-tested.<br/><br/>`Docker` `Docker Compose` `AWS EC2` `S3` `IAM` | **📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)**<br/>AIOps load-testing platform. A load test reaching **170K users**, with CloudWatch dashboards, alarms and SNS alerts. EC2 provisioned with Terraform.<br/><br/>`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis` |
