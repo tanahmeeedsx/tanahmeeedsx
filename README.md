@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f2b50,70:075985,100:0ea5e9&height=260&section=header&text=TANJIM%20AHMED&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEERING%20%7C%20CLOUD%20%7C%20AUTOMATION%20%7C%20RELIABILITY&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Tanjim Ahmed - DevOps Engineering, Cloud, Automation and Reliability"/>
 
   <h3>Building Reliable Systems. Automating Everything Possible.</h3>
@@ -31,7 +30,7 @@
 
 <br/>
 
-> I take code from commit to a **reachable, observable production URL**. I ship Dockerized apps through GitHub Actions to AWS, watch them with health checks, logs and alerts, and learn by breaking real systems and fixing them.
+> I take code from commit to a **reachable, observable production URL**. I build and automate cloud infrastructure, ship Dockerized applications through CI/CD pipelines, implement security practices, and monitor production systems to improve reliability and performance.
 
 <br/>
 
@@ -39,32 +38,70 @@
 
 | | |
 |---|---|
-| **Currently** | DevOps Engineer Intern @ **Springer Capital** · Remote (Wilmette, Illinois, USA) |
+| **Currently** | DevOps Engineer Intern @ **Springer Capital** · Remote |
 | **Core** | Linux · Git & GitHub · Docker · CI/CD · AWS · Kubernetes |
-| **Building** | **Kleos** (LLM DevOps assistant) · **DevSecOps Agent** |
+| **Building** | **DevConnect** (Cloud-Native Microservices) · **Kleos** (LLM DevOps Assistant) |
+| **Specialization** | DevOps · DevSecOps · Cloud Infrastructure · SRE |
 | **Based in** | Dhaka, Bangladesh |
 | **Open to** | DevOps · Cloud · SRE · Platform Engineering |
 
 <br/>
 
-## Story So Far
+## Professional Experience
 
-| When | What |
-|---|---|
-| **Aug 2026 – Present** | DevOps Engineer Intern @ **Springer Capital**: n8n automation, local LLM serving, Grafana Loki audits |
-| **Aug 2026 – Present** | DevOps and Cloud Engineering bootcamp @ **bongoDev** |
-| **Nov 2025 – Feb 2026** | Junior Executive @ **SkyTech Solutions** |
-| **Dec 2021 – Dec 2025** | B.Sc. in Computer Engineering @ **BUBT** |
+| Period | Position | Organization |
+|---|---|---|
+| **Jun 2026 – Nov 2026** | DevOps Engineer Intern · Remote | [Springer Capital](https://www.linkedin.com/company/82560336/) |
+| **Aug 2025 – May 2026** | IT Support · Full-time | [SkyTech Solutions](https://www.linkedin.com/company/3838929/) |
+
+### Springer Capital — DevOps Engineer Intern
+*Jun 2026 – Nov 2026 · Remote · Wilmette, Illinois, USA*
+
+Hands-on experience in DevOps engineering, focusing on CI/CD pipeline implementation, infrastructure automation, cloud computing, and containerization.
+
+- Worked with Linux system administration, Git/GitHub, Docker, Kubernetes, Terraform, AWS, and HashiCorp Nomad.
+- Explored deployment automation, Infrastructure as Code (IaC), system monitoring, troubleshooting, and application lifecycle management.
+- Worked with n8n automation, local LLM serving, and Grafana Loki audits.
+- Explored AI-powered DevOps workflows and local LLM orchestration.
+
+### SkyTech Solutions — IT Support
+*Aug 2025 – May 2026 · Full-time · Uttara, Dhaka, Bangladesh*
+
+Provided technical support by diagnosing and resolving hardware and software issues.
+
+- Installed, configured, and updated operating systems and applications.
+- Performed system maintenance and hardware troubleshooting.
+- Diagnosed network connectivity and peripheral device issues.
+- Supported reliable day-to-day IT infrastructure operations.
 
 <br/>
 
-## Featured Work
+## Featured Projects
 
-| | |
+| Project | Description |
 |---|---|
-| **🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)**<br/>MERN incident and on-call tracker on **AWS EC2**. Deployed to Ubuntu 24.04 with Security Groups, SSH key authentication and MongoDB under systemd.<br/><br/>`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash` | **☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)**<br/>Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions.<br/><br/>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions` |
-| **🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)**<br/>Dockerized expense app on **AWS EC2**. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron, restore-tested.<br/><br/>`Docker` `Docker Compose` `AWS EC2` `S3` `IAM` | **📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)**<br/>AIOps load-testing platform. A load test reaching **170K users**, with CloudWatch dashboards, alarms and SNS alerts. EC2 provisioned with Terraform.<br/><br/>`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis` |
-| **🛡️ [DevSecOps Agent](https://github.com/tanahmeeedsx/devsecops-agent)**<br/>Container and cloud security platform. Trivy image scans, container health, and AWS inspection across ECS, ECR, Security Groups, S3 and IAM.<br/><br/>`Trivy` `Docker` `AWS SSM` `ECS` `ECR` `IAM` | **🤖 [Kleos · LLM DevOps Assistant](https://github.com/tanahmeeedsx/LLM-chatbot-assistant)**<br/>MCP-powered chatbot for CI/CD troubleshooting. Investigates GitHub Actions failures and analyzes job logs using a local Qwen 2.5 model via Ollama.<br/><br/>`Python` `Streamlit` `MCP` `Ollama` `GitHub CLI` |
+| **⎈ [DevConnect – Cloud-Native Microservices Platform](https://github.com/tanahmeeedsx/end-to-end-microservice-project)** | Built a cloud-native developer social platform using Python, FastAPI, React, and independent microservices. Provisioned AWS infrastructure with Terraform, deployed on Kubernetes (K3s), implemented GitOps with Argo CD, automated CI/CD with GitHub Actions, and established observability using Prometheus, Grafana, Loki, Grafana Alloy, and cAdvisor. Security scanning with Trivy and OWASP Dependency-Check. <br/><br/>`Microservices` `FastAPI` `Docker` `Terraform` `K3s` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `Loki` |
+| **☸️ [DeployWatch – AWS EKS Kubernetes Deployment & Monitoring](https://github.com/tanahmeeedsx/k8s-eks-project)** | Designed and deployed a two-tier application on Amazon EKS using Kubernetes, Docker, AWS, and MySQL. Implemented Kubernetes Deployments, Services, RBAC, workload monitoring, and automated CI/CD deployment workflows. <br/><br/>`AWS EKS` `Kubernetes` `Docker` `MySQL` `RBAC` `GitHub Actions` |
+| **🚨 [Incident Manager](https://github.com/tanahmeeedsx/incident-management)** | MERN incident and on-call tracker deployed on AWS EC2. Configured Ubuntu 24.04, Security Groups, SSH key authentication, and MongoDB under systemd. <br/><br/>`AWS EC2` `Ubuntu` `systemd` `MongoDB` `Bash` |
+| **☁️ [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)** | Serverless AI classroom. React on EC2 + Nginx, API Gateway + Lambda, S3 and DynamoDB, deployed with AWS SAM through GitHub Actions. <br/><br/>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation` `GitHub Actions` |
+| **🐳 [Expense Tracker](https://github.com/tanahmeeedsx/expense-tracker)** | Dockerized expense application on AWS EC2. Multi-stage builds, Docker Compose with custom networks, and MongoDB backups to S3 via cron with restore testing. <br/><br/>`Docker` `Docker Compose` `AWS EC2` `S3` `IAM` |
+| **📈 [FlashScale](https://github.com/tanahmeeedsx/aiops-flashscale-app)** | AIOps load-testing platform reaching 170K users, with CloudWatch dashboards, alarms, and SNS alerts. EC2 provisioned using Terraform. <br/><br/>`k6` `Terraform` `CloudWatch` `SNS` `NGINX` `Redis` |
+| **🛡️ [DevSecOps Agent](https://github.com/tanahmeeedsx/devsecops-agent)** | Container and cloud security platform with Trivy image scans, container health checks, and AWS infrastructure inspection across ECS, ECR, Security Groups, S3, and IAM. <br/><br/>`Trivy` `Docker` `AWS SSM` `ECS` `ECR` `IAM` |
+| **🤖 [Kleos – LLM DevOps Assistant](https://github.com/tanahmeeedsx/LLM-chatbot-assistant)** | MCP-powered chatbot for CI/CD troubleshooting. Investigates GitHub Actions failures and analyzes job logs using a local Qwen 2.5 model via Ollama. <br/><br/>`Python` `Streamlit` `MCP` `Ollama` `GitHub CLI` |
+
+<br/>
+
+## Licenses & Certifications
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| **Claude Academy: Claude 101** | Anthropic | Nov 2026 |
+| **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | Nov 2026 |
+| **DevOps and Cloud Engineering** | bongoDev | Aug 2026 |
+
+- [Verify Claude 101 Credential](https://academy.claude.com/verify/046217e9f803381fe89dfc9105311043)
+- [AWS Skill Builder](https://skillbuilder.aws/learn)
+- [bongoDev](https://www.bongodev.com/)
 
 <br/>
 
@@ -72,11 +109,11 @@
 
 *Real breakages from my projects, and what they taught me.*
 
-| 🔥 Problem | 🛠️ Fix | 💡 Lesson |
+| Problem | Fix | Lesson |
 |---|---|---|
-| **Deploy failed** on a missing `SAM_STACK_NAME` secret in GitHub Actions | Read the Actions logs, added the missing repository secret, re-ran the deploy | Read the logs before changing code |
-| **Backend image** flagged with **21** Docker Scout findings | Removed the bundled npm CLI from the runtime image, rebuilt and rescanned: now **0** in Docker Scout and Trivy | Build tools belong in the builder stage, not production |
-| **Backups** with no restore test yet | Restored the latest MongoDB backup into a separate test database and verified every record | A backup is only real after a restore |
+| **Deploy failed** on a missing `SAM_STACK_NAME` secret in GitHub Actions | Read Actions logs, added the missing repository secret, and reran deployment | Read the logs before changing code |
+| **Backend image** flagged with **21** Docker Scout findings | Removed bundled npm CLI from the runtime image, rebuilt and rescanned: now 0 findings in Docker Scout and Trivy | Build tools belong in the builder stage, not production |
+| **Backups** without a restore test | Restored the latest MongoDB backup into a separate test database and verified records | A backup is only real after a restore |
 
 <br/>
 
@@ -84,13 +121,13 @@
 
 | Area | Technologies |
 |---|---|
-| ☁️ **AWS** | EC2 · ECS Fargate · ECR · Lambda · API Gateway · S3 · DynamoDB · CloudFormation · IAM |
-| 🐳 **Containers** | Docker · Docker Compose · Multi-stage builds · Docker Scout |
-| ⎈ **Kubernetes** | Minikube · Kind · kubeadm · Pods · Deployments · Services · Ingress · YAML manifests |
-| 🛡️ **DevSecOps** | Trivy · CodeQL · npm audit · Secret scanning · Least-privilege IAM |
-| 📈 **AIOps & Observability** | k6 load testing · CloudWatch alarms · SNS · Grafana · Loki · Prometheus |
-| 🤖 **AI Agents** | MCP · Ollama · Qwen 2.5 · Llama 3.2 · FastAPI · Streamlit |
-| 🔄 **CI/CD & Automation** | GitHub Actions · n8n · Terraform · Bash · systemd |
+| ☁️ **AWS & Cloud** | EC2 · ECS Fargate · ECR · EKS · Lambda · API Gateway · S3 · DynamoDB · CloudFormation · IAM |
+| 🐳 **Containers** | Docker · Docker Compose · Multi-stage Builds · Docker Scout |
+| ⎈ **Kubernetes & GitOps** | Kubernetes · Minikube · Kind · kubeadm · K3s · EKS · Argo CD · RBAC · Services · Ingress |
+| 🛡️ **DevSecOps** | Trivy · CodeQL · OWASP Dependency-Check · npm audit · Secret Scanning · Least-Privilege IAM |
+| 📈 **AIOps & Observability** | k6 · CloudWatch · SNS · Prometheus · Grafana · Loki · Grafana Alloy · cAdvisor |
+| 🤖 **AI & LLM Engineering** | MCP · Ollama · Qwen 2.5 · Llama 3.2 · FastAPI · Streamlit |
+| 🔄 **CI/CD & Automation** | GitHub Actions · Terraform · n8n · Bash · systemd · Infrastructure as Code |
 
 <br/>
 
@@ -118,7 +155,7 @@
 
 ## Let's Build Something Reliable
 
-Looking for **DevOps, Cloud, SRE and Platform Engineering** roles where I can ship, operate and improve production systems, and automate the parts that keep them up at 3 a.m.
+Looking for **DevOps, Cloud, SRE and Platform Engineering** opportunities where I can build, deploy, secure, monitor, and improve production infrastructure.
 
 <div align="center">
 
