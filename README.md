@@ -8,7 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanahmedd/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat-square&logo=netlify&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat-square&logo=netlify&logoColor=white)](https://tanjim-ahmed-devops-portfolio.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-238636?style=flat-square)](https://tanjim-ahmed-devops-portfolio.netlify.app/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:tanjimahmed450@gmail.com)
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-DevOps%20%C2%B7%20Cloud%20%C2%B7%20SRE%20%C2%B7%20Platform-2ea043?style=flat-square)
 
@@ -26,6 +27,8 @@ I design, automate and operate cloud-native infrastructure on AWS. I take code f
 | **Based in** | Mirpur, Dhaka, Bangladesh |
 | **Education** | B.Sc. in Computer Science and Engineering (Major in AI), BUBT |
 | **Looking for** | DevOps Engineer, Cloud Engineer, SRE and Platform Engineer roles |
+| **Portfolio** | [tanjim-ahmed-devops-portfolio.netlify.app](https://tanjim-ahmed-devops-portfolio.netlify.app/) |
+| **Resume** | [View resume](https://tanjim-ahmed-devops-portfolio.netlify.app/resume.pdf) |
 | **Contact** | [tanjimahmed450@gmail.com](mailto:tanjimahmed450@gmail.com) |
 
 **What I work on**
@@ -70,26 +73,6 @@ I design, automate and operate cloud-native infrastructure on AWS. I take code f
 | [**Kleos**](https://lnkd.in/ddrN9aUq) | MCP-powered, read-only DevOps chatbot that investigates GitHub Actions failures and job logs through MCP tools and a local Qwen 2.5 1.5B model. Under active development. | Python, Streamlit, MCP, Ollama |
 | [**DevSecOps Agent**](https://github.com/tanahmeeedsx/devsecops-agent) | Dashboard for container health and Trivy vulnerability scans, with AWS security inspection (SSM, ECS, ECR, Security Groups, S3, IAM) and AI-assisted remediation advice. Under active development. | Trivy, Docker, AWS SSM, ECS, ECR, IAM |
 
-### Additional Hands-on Work
-
-| Project | Highlights |
-|---|---|
-| [**Incident Management**](https://github.com/tanahmeeedsx/incident-management-v2) | Observability stack with Prometheus, Grafana, Loki, Alloy, Node Exporter and cAdvisor, tested with live traffic and errors |
-| **FlashScale** | AIOps load test with 170K users using k6 and AWS Distributed Load Testing, CloudWatch alarms and SNS alerts |
-| **Jenkins CI/CD** | Master-agent setup on two EC2 instances with a parameterized declarative pipeline for DEV and PROD |
-| **Ansible and Terraform** | One control node and four managed nodes; Terraform on AWS with a VPC, EC2 and an S3 backend |
-| **HashiCorp Nomad** | HCL job spec running Nginx with the Docker driver, resource limits and port mapping |
-| **AWS Auto Scaling and ALB** | CPU-based scale-out and scale-in with a launch template, Nginx and CloudWatch alarms |
-| **Cloud Health Monitor** | Node.js dashboard on ECS Fargate with GitHub Actions CI, ECR and email alerts |
-| **Container security fixes** | Docker Scout and Trivy findings cut from 21 to 0; multi-stage build shrank an image from 278 MB to 90.9 MB |
-| **Kubernetes with kubeadm** | Two-node EC2 cluster with containerd and Calico, plus Minikube and kind practice |
-| **Local LLM orchestration** | Qwen 2.5 and Llama 3.2 on Ollama through OmniRoute and FastAPI; model crashes fixed by tuning concurrency |
-| **n8n quiz pipeline** | Baserow, webhook, n8n and Mattermost automation for quiz submissions |
-| **Linux hardening** | ED25519-only SSH, tmpfs storage, load testing and cron-based monitoring |
-| **Windows Server labs** | Active Directory, DNS, DHCP, Group Policy, file server with FSRM, and SOHO router administration |
-
-Case studies for each project are on my [portfolio](https://tanjim-devops-latest-portfolio.netlify.app/).
-
 ---
 
 ## Experience
@@ -105,21 +88,9 @@ Case studies for each project are on my [portfolio](https://tanjim-devops-latest
 
 **Springer Capital**
 
-- Built an event-driven n8n pipeline (Baserow, webhook, field mapping, Mattermost) and evaluated n8n in a staging environment
-- Audited Grafana Loki for high-cardinality labels and documented stream and query impact
-- Built a local LLM serving stack (Qwen 2.5, Llama 3.2, Ollama, OmniRoute, FastAPI, Docker) and fixed model crashes by tuning concurrency
-
-**SkyTech Global**
-
-- Diagnosed and resolved hardware, software and network issues for users
-- Installed, configured and updated operating systems and applications, and performed system maintenance
-- Handled client queries and first-level troubleshooting, coordinating with teams to resolve issues
-
-**BUBT Clubs**
-
-- Led cultural activities, supervised event planning and coordinated the executive committee
-- Planned and ran university events: logistics, scheduling and participant communication
-- Supported IT programs, technical learning and student engagement
+- Built an event-driven n8n pipeline (Baserow, webhook, Mattermost)
+- Audited Grafana Loki for high-cardinality labels and documented the impact
+- Built a local LLM serving stack (Qwen 2.5, Llama 3.2, Ollama, OmniRoute, FastAPI, Docker)
 
 ---
 
@@ -141,9 +112,9 @@ Case studies for each project are on my [portfolio](https://tanjim-devops-latest
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=merko&hide_border=true&include_all_commits=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=merko&hide_border=true"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&include_all_commits=true&bg_color=f0fdf4&border_color=9be9a8&border_radius=8&title_color=216e39&text_color=216e39&icon_color=30a14e&ring_color=30a14e"/> <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&bg_color=f0fdf4&border_color=9be9a8&border_radius=8&title_color=216e39&text_color=216e39"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=merko&hide_border=true"/>
+<img height="130" src="https://streak-stats.demolab.com?user=tanahmeeedsx&background=f0fdf4&border=9be9a8&stroke=9be9a8&border_radius=8&ring=30a14e&fire=40c463&currStreakNum=216e39&sideNums=216e39&currStreakLabel=30a14e&sideLabels=30a14e&dates=30a14e"/>
 
 <br/>
 
