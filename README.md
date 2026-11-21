@@ -1,108 +1,83 @@
 
-
-0 edits
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:22c55e&height=180&section=header&text=Tanjim%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20SRE&descSize=18&descAlignY=58" width="100%" />
+# Tanjim Ahmed
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=15803D&center=true&vCenter=true&width=520&lines=Building.+Automating.+Scaling.;Cloud+Infrastructure+on+AWS;CI%2FCD+%7C+Kubernetes+%7C+GitOps" alt="Typing SVG" />
+### DevOps Engineer | Cloud | SRE
+
+**Building. Automating. Scaling.**
+
+[LinkedIn](https://www.linkedin.com/in/tanahmedd/) · [Portfolio](https://tanjim-ahmed-portfolio.netlify.app) · [Resume](https://drive.google.com/file/d/1kkaaZFErs1VYDWGeiR80lUehpCDu5KIJ/view?usp=sharing) · [Email](mailto:tanjimahmed450@gmail.com)
 
 </div>
 
-About Me
-DevOps Engineer focused on building and automating cloud infrastructure, CI/CD pipelines, containerized applications and reliable systems on AWS.
+---
 
-Location: Dhaka, Bangladesh
+## About
 
-Education: B.Sc. in CSE, BUBT
+DevOps Engineer focused on cloud infrastructure, automation, CI/CD, Kubernetes and system reliability.
 
-Interests: Cloud, DevOps, SRE & Platform Engineering
+## Skills
 
-Tech Stack
-Cloud & IaC
+- **Cloud:** AWS
+- **IaC:** Terraform, CloudFormation
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions, Jenkins, Argo CD
+- **Monitoring:** Prometheus, Grafana, Loki
+- **Security:** Trivy, Docker Scout
+- **Programming:** Python, Bash
 
-AWS
-Terraform
-CloudFormation
+## Projects
 
-Containers & Orchestration
+- [DevConnect](https://github.com/tanahmeeedsx/end-to-end-microservice-project) — Microservices platform on AWS and K3s.
+- [DeployWatch](https://github.com/tanahmeeedsx/k8s-eks-project) — Kubernetes monitoring dashboard on EKS.
+- [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor) — Serverless AWS application.
+- [DevSecOps Agent](https://github.com/tanahmeeedsx/devsecops-agent) — Container security and AWS inspection.
 
-Docker
-Kubernetes
-EKS
-K3s
+## Experience
 
-CI/CD & GitOps
+**Springer Capital** — DevOps Engineer Intern  
+Jun 2026 – Present
 
-GitHub Actions
-Jenkins
-Argo CD
+**SkyTech Global** — IT Support & Client Support  
+Oct 2025 – May 2026
 
-Monitoring & Security
+**BUBT Cultural Club** — Vice President & Joint Event Secretary  
+2023 – 2025
 
-Prometheus
-Grafana
-Loki
-Trivy
-Docker Scout
+**BUBT IT Club** — Executive  
+2024 – 2025
 
-AI, Automation & Development
+## Education
 
-Python
-Bash
-Ollama
-MCP
-FastAPI
-Flask
-React
-PostgreSQL
+**B.Sc. in Computer Science and Engineering (AI)**  
+Bangladesh University of Business and Technology  
+2022 – 2025
 
-Featured Projects
-Project	Description
-DevConnect	7-microservice platform on AWS and K3s with GitOps and monitoring
-DeployWatch	Kubernetes monitoring dashboard deployed on Amazon EKS
-Expense Tracker	Dockerized MERN application with AWS backup automation
-CloudMentor	Serverless AI classroom built with AWS services
-Kleos	MCP-powered DevOps assistant using local LLMs
-DevSecOps Agent	AI-assisted container security and AWS inspection dashboard
-Experience & Leadership
-Organization	Role	Duration
-Springer Capital	DevOps Engineer Intern	Jun 2026 - Present
-SkyTech Global	IT Support	Jan 2026 - May 2026
-SkyTech Global	Junior Executive, Client Support	Oct 2025 - Dec 2025
-BUBT Cultural Club	Vice President	2024 - 2025
-BUBT Cultural Club	Joint Event Secretary	2023 - 2024
-BUBT IT Club	Executive	2024 - 2025
-Education
-B.Sc. in Computer Science and Engineering (Major in AI)
-Bangladesh University of Business and Technology (BUBT) | 2022 - 2025
+## Certifications
 
-Certifications
-AWS Cloud Practitioner Essentials - AWS
+- AWS Cloud Practitioner Essentials
+- Claude 101 — Anthropic
+- DevOps and Cloud Engineering — bongoDev
 
-Claude 101 - Anthropic Academy
+## Research
 
-DevOps and Cloud Engineering - bongoDev
+**Railway Track Fault Detection using Deep Learning**
 
-Research
-Railway Track Fault Detection using Deep Learning and Explainable AI
+DenseNet121 · Grad-CAM · 98% Accuracy · 0.9942 AUC
 
-Model
-Dataset
-Accuracy
-AUC
+## GitHub Streak
 
-GitHub Streak
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tanahmeeedsx&background=f0fdf4&border=9be9a8&stroke=9be9a8&border_radius=8&ring=15803d&fire=16a34a&currStreakNum=14532d&sideNums=14532d&currStreakLabel=15803d&sideLabels=15803d&dates=166534" />
-
-
-
-
-Automate Infrastructure | Deliver Reliability | Keep Improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:14532d&height=100&section=footer" width="100%" />
+<img height="180" src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=github-dark-blue&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&dates=8b949e&hide_border=true"/>
 
 </div>
 
+---
+
+<div align="center">
+
+**Building Reliable Systems Through Automation.**
+
+</div>
