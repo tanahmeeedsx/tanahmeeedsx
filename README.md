@@ -1,66 +1,76 @@
  <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="85" alt="Kubernetes Logo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:b7f7c2&height=180&section=header&text=TANJIM%20AHMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20SRE&descAlignY=62&descSize=15" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,45:0d4429,100:238636&height=200&section=header&text=TANJIM%20AHMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20SRE&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
+**Building. Automating. Scaling.**
 
-### Building Reliable Infrastructure. Automating Everything.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanahmedd/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanahmedd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat-square&logo=vercel&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
 
-I'm **Tanjim Ahmed**, a Computer Engineering graduate focused on DevOps, Cloud Infrastructure, and Site Reliability Engineering.
+I'm **Tanjim Ahmed**, a Computer Engineering graduate focused on DevOps Engineering, Cloud Infrastructure, and Site Reliability Engineering.
 
-I enjoy building automated infrastructure, deploying containerized applications, implementing CI/CD pipelines, and monitoring distributed systems.
+I enjoy automating infrastructure, building CI/CD pipelines, deploying containerized applications, and improving system reliability.
 
-- ☁️ Working with AWS cloud infrastructure and services
-- ⚙️ Building CI/CD pipelines and Infrastructure as Code
-- ⎈ Exploring Kubernetes, container orchestration, and GitOps
-- 📊 Implementing monitoring, logging, and observability
-- 🔐 Learning DevSecOps, automation, and cloud security
+- Cloud Infrastructure & Automation
+- Containerization & Orchestration
+- CI/CD & GitOps
+- Monitoring & Observability
+- DevSecOps & Cloud Security
 
-**Current Focus:** Cloud Engineering • Kubernetes • SRE • DevSecOps
+## Technical Skills
 
-## `$ tech-stack`
+### Cloud Platforms & Infrastructure
 
-### Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform" />
-</p>
+| Technology | Skills |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=aws" width="24"/> **AWS** | EC2, S3, IAM, VPC, EKS, ECS, Lambda, API Gateway, DynamoDB, CloudFormation, CloudWatch |
+| <img src="https://skillicons.dev/icons?i=terraform" width="24"/> **Terraform** | Infrastructure as Code |
+| <img src="https://skillicons.dev/icons?i=linux" width="24"/> **Linux** | Linux Administration, Bash |
 
 ### Containers & Orchestration
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
+| Technology | Skills |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=docker" width="24"/> **Docker** | Docker, Docker Compose |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="24"/> **Kubernetes** | Kubernetes, Amazon EKS, K3s |
+| **Nomad** | HashiCorp Nomad |
 
 ### CI/CD & GitOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
-</p>
+| Technology | Skills |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=githubactions" width="24"/> **GitHub Actions** | CI/CD, GitHub OIDC |
+| <img src="https://skillicons.dev/icons?i=jenkins" width="24"/> **Jenkins** | CI/CD Automation |
+| **Argo CD** | GitOps, Continuous Delivery |
 
-### Monitoring & Observability
+### Monitoring & Security
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
+| Technology | Skills |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=prometheus" width="24"/> **Prometheus** | Metrics & Monitoring |
+| <img src="https://skillicons.dev/icons?i=grafana" width="24"/> **Grafana** | Dashboards & Visualization |
+| **Loki & Grafana Alloy** | Logging & Observability |
+| **Trivy, Docker Scout, CodeQL** | Vulnerability Scanning & Code Security |
 
 ### Programming & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,javascript" />
-</p>
+| Technology | Skills |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="24"/> **Python** | Automation, Scripting |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> **FastAPI** | Backend Development |
+| <img src="https://skillicons.dev/icons?i=flask" width="24"/> **Flask** | Backend Development |
+| <img src="https://skillicons.dev/icons?i=postgres" width="24"/> **PostgreSQL** | Database |
+| <img src="https://skillicons.dev/icons?i=redis" width="24"/> **Redis** | Caching |
+| <img src="https://skillicons.dev/icons?i=javascript" width="24"/> **JavaScript** | Application Development |
 
-## `$ experience`
+## Professional Experience
 
 | Organization | Position | Duration |
 |---|---|---|
@@ -68,72 +78,68 @@ I enjoy building automated infrastructure, deploying containerized applications,
 | **SkyTech Solutions** | IT Support | Aug 2025 – May 2026 |
 | **BUBT IT Club** | Executive | 2024 – 2025 |
 
-## `$ featured-projects`
+## Featured Projects
 
-### 01. DevConnect — Microservices Platform
+### 1. DevConnect — Microservices Platform
 
 A multi-service application focused on containerization, orchestration, and GitOps-based deployment.
 
-**Tech:** FastAPI · React · Docker · Terraform · K3s · Argo CD · Prometheus · Grafana · Loki
+**Technologies:** FastAPI, React, Docker, Terraform, K3s, Argo CD, Prometheus, Grafana, Loki
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
+[View Repository](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
 
-### 02. DeployWatch — Kubernetes Monitoring Dashboard
+### 2. DeployWatch — Kubernetes Monitoring Dashboard
 
 An EKS-based dashboard for monitoring Kubernetes workloads, deployments, pods, and cluster events.
 
-**Tech:** AWS EKS · Kubernetes · Flask · Docker · GitHub Actions · OIDC · RBAC
+**Technologies:** AWS EKS, Kubernetes, Flask, Docker, GitHub Actions, OIDC, RBAC
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/k8s-eks-project)
+[View Repository](https://github.com/tanahmeeedsx/k8s-eks-project)
 
-### 03. Incident Management — Observability Stack
+### 3. Incident Management — Observability Stack
 
-A monitoring and logging environment designed to support incident investigation and infrastructure visibility.
+A monitoring and logging environment designed for infrastructure visibility and incident investigation.
 
-**Tech:** Prometheus · Grafana · Loki · Grafana Alloy · Docker
+**Technologies:** Prometheus, Grafana, Loki, Grafana Alloy, Docker
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/incident-management-v2)
+[View Repository](https://github.com/tanahmeeedsx/incident-management-v2)
 
-### 04. CloudMentor — Serverless AWS Application
+### 4. CloudMentor — Serverless AWS Application
 
-A serverless application built using AWS managed services and Infrastructure as Code.
+A serverless application built with AWS managed services and Infrastructure as Code.
 
-**Tech:** AWS Lambda · API Gateway · DynamoDB · S3 · CloudFormation · SAM
+**Technologies:** AWS Lambda, API Gateway, DynamoDB, S3, CloudFormation, SAM
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/cloud-mentor)
+[View Repository](https://github.com/tanahmeeedsx/cloud-mentor)
 
-## `$ certifications`
+## Certifications
 
 - AWS Cloud Practitioner Essentials — AWS (2026)
 - Claude 101 — Anthropic Academy (2026)
 - DevOps and Cloud Engineering — bongoDev (2026)
 
-## `$ education`
+## Education
 
 **B.Sc. in Computer Engineering**  
 Bangladesh University of Business and Technology (BUBT)  
 2021 – 2025
 
----
-
-## `$ github-stats`
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=merko&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=merko&hide_border=true"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=github-dark-blue&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=merko&hide_border=true"/>
 
 </div>
 
----
-
 <div align="center">
 
-**Automate. Deploy. Monitor. Improve.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:b7f7c2&height=100&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:238636&height=65&section=footer" width="100%" />
+**Automate Infrastructure · Deliver Reliability · Keep Improving**
 
 </div>
