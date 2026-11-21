@@ -1,96 +1,154 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=TANJIM%20AHMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20SITE%20RELIABILITY&descAlignY=60&descSize=15" width="100%"/>
+# TANJIM AHMED
 
-### DevOps Engineer | Cloud & Infrastructure
+### `DEVOPS ENGINEER` · `CLOUD` · `SRE` · `PLATFORM ENGINEERING`
 
-Building, automating, and monitoring reliable cloud-native systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanahmedd/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
 
-[LinkedIn](https://linkedin.com/in/tanahmedd/) · [GitHub](https://github.com/tanahmeeedsx) · [Email](mailto:your-email@example.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Infrastructure;Automating+CI%2FCD+%26+GitOps+Workflows;Deploying+and+Observing+Kubernetes+Workloads;Exploring+DevSecOps+%26+AIOps" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+```bash
+tanjim@devops:~$ whoami
 
-I'm a Computer Science graduate focused on **DevOps, Cloud Engineering, and Site Reliability Engineering**. I enjoy building practical projects around cloud infrastructure, containerization, CI/CD, automation, and monitoring.
+DevOps Engineer focused on building, automating and operating
+cloud-native infrastructure.
 
-## Tech Stack
+tanjim@devops:~$ mission
 
-**Cloud:** AWS, EC2, EKS, IAM, S3
+From commit to deployment.
+From deployment to observability.
+From incidents to reliable systems.
 
-**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, Argo CD
+tanjim@devops:~$ status
+[+] Building       Cloud & Kubernetes
+[+] Automating     CI/CD & Infrastructure
+[+] Exploring      DevSecOps & AIOps
+```
 
-**Monitoring:** Prometheus, Grafana, Loki, Grafana Alloy
+## / About Me
 
-**Programming:** Python, Bash, JavaScript, SQL
+I'm a DevOps Engineer interested in designing reliable infrastructure and automating the software delivery lifecycle.
 
-**Tools:** Git, Linux, FastAPI, Flask, PostgreSQL, Redis
+My work focuses on AWS, Docker, Kubernetes, Infrastructure as Code, CI/CD, GitOps, monitoring, and cloud security.
 
-## Professional Experience
+- Currently building and improving cloud-native projects.
+- DevOps Engineer Intern at **Springer Capital**.
+- Hands-on experience with AWS, Kubernetes, Terraform and automation.
+- Exploring MCP, local LLM orchestration and AIOps.
+- Interested in DevOps, Cloud, SRE and Platform Engineering.
 
-**Springer Capital — DevOps Engineer Intern**  
-*Jun 2026 – Nov 2026*
+## / Featured Projects
 
-Worked on DevOps tasks involving CI/CD, cloud infrastructure, containerization, automation, and monitoring.
+| Project | What I Built | Stack |
+|---|---|---|
+| **DevConnect** | 7-service microservices platform with GitOps deployment and observability. | FastAPI, Docker, K3s, Terraform, Argo CD |
+| **DeployWatch** | Kubernetes monitoring dashboard deployed on Amazon EKS with OIDC and RBAC. | Flask, EKS, Docker, GitHub Actions |
+| **CloudMentor** | Serverless AI classroom with automated AWS infrastructure deployment. | Lambda, API Gateway, DynamoDB, SAM |
+| **Expense Tracker** | Dockerized MERN application with secure AWS backups and vulnerability scanning. | Docker Compose, Nginx, EC2, S3 |
+| **Kleos** | Read-only MCP-powered assistant for investigating GitHub Actions failures. | Python, Streamlit, MCP, Ollama |
+| **DevSecOps Agent** | Container monitoring, Trivy vulnerability scanning and AWS security inspection. | Trivy, Docker, AWS SSM, ECS |
 
-**SkyTech Solutions — IT Support**  
-*Aug 2025 – May 2026*
+**Explore project case studies:** [Portfolio →](https://tanjim-devops-latest-portfolio.netlify.app/)
 
-Handled technical support, system maintenance, software configuration, and troubleshooting.
+**Selected repositories:**
+- [DevConnect](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
+- [DeployWatch](https://github.com/tanahmeeedsx/k8s-eks-project)
+- [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)
 
-## Featured Projects
+## / Technology Stack
 
-### DevConnect — Cloud-Native Microservices Platform
-A microservices-based social platform deployed on AWS EC2 with Kubernetes and GitOps.
+**Cloud & Infrastructure**
 
-`AWS` `Terraform` `Docker` `K3s` `Argo CD` `Prometheus` `Grafana`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[View Repository](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
+**Containers & Orchestration**
 
-### DeployWatch — Kubernetes Monitoring Dashboard
-A Flask-based dashboard deployed on Amazon EKS with automated CI/CD and Kubernetes RBAC.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
 
-`AWS EKS` `Docker` `Kubernetes` `GitHub Actions` `IAM OIDC`
+**CI/CD & GitOps**
 
-[View Repository](https://github.com/tanahmeeedsx/k8s-eks-project)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Incident Management
-An application focused on infrastructure monitoring, observability, metrics, and centralized logging.
+**Monitoring & Security**
 
-`Prometheus` `Grafana` `Loki` `Grafana Alloy`
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![Docker Scout](https://img.shields.io/badge/Docker_Scout-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[View Repository](https://github.com/tanahmeeedsx/incident-management-v2)
+**Programming & AI**
 
-### CloudMentor
-A serverless AWS application built with managed cloud services and infrastructure automation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-3FB950?style=flat-square&logoColor=white)
 
-`AWS` `Lambda` `API Gateway` `DynamoDB` `S3`
+## / Engineering Experience
 
-[View Repository](https://github.com/tanahmeeedsx/cloud-mentor)
+**DevOps Engineer Intern — Springer Capital**  
+`June 2026 – November 2026`
 
-## Certifications
+- Built event-driven automation using n8n, Baserow and Mattermost.
+- Audited Grafana Loki high-cardinality labels.
+- Built a local LLM serving stack using Ollama, Qwen 2.5, Llama 3.2, FastAPI and Docker.
+- Improved model stability by tuning concurrency.
 
-- AWS Cloud Practitioner Essentials — Amazon Web Services
-- Claude 101 — Anthropic
+**IT Support — SkyTech Global**  
+`January 2026 – May 2026`
+
+- Troubleshot hardware, software and network issues.
+- Configured operating systems and maintained IT infrastructure.
+
+## / GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=tanahmeeedsx&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+## / Education & Certifications
+
+- **B.Sc. in Computer Science & Engineering (Major in AI)** — BUBT, 2022–2025
+- AWS Cloud Practitioner Essentials — AWS
+- Claude 101 — Anthropic Academy
 - DevOps and Cloud Engineering — bongoDev
 
-## GitHub Statistics
+## / Beyond the Terminal
 
-<div align="center">
+I believe the best way to learn infrastructure is to build it, break it, debug it, and make it reliable again.
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=github_dark_dimmed&hide_border=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=github-dark-blue&hide_border=true" width="75%"/>
-
-</div>
+Currently focused on growing deeper in Cloud Engineering, Kubernetes, SRE and automation.
 
 ---
 
 <div align="center">
 
-**Building skills. Automating infrastructure. Improving reliability.**
+### `BUILD → AUTOMATE → DEPLOY → OBSERVE → IMPROVE`
+
+**Let's build reliable systems.**
+
+[Portfolio](https://tanjim-devops-latest-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/tanahmedd/) · [GitHub](https://github.com/tanahmeeedsx)
 
 </div>
