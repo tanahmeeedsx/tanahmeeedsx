@@ -1,121 +1,106 @@
  <div align="center">
 
-# Tanjim Ahmed
+# TANJIM AHMED
 
-### Junior DevOps Engineer | Cloud | SRE | Platform Engineering
+### JUNIOR DEVOPS ENGINEER
 
-Building reliable infrastructure, automating deployments, and making cloud-native systems observable.
+`CLOUD` · `DEVOPS` · `SRE` · `PLATFORM ENGINEERING`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-238636?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanahmedd/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
+[Portfolio](https://tanjim-devops-latest-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/tanahmedd/) · [GitHub](https://github.com/tanahmeeedsx)
 
 </div>
 
 ---
 
-## About
+## `01 / SYSTEM STATUS`
 
-I'm a DevOps Engineer focused on building and operating cloud-native infrastructure.
+```bash
+$ whoami
+Tanjim Ahmed
 
-- DevOps Engineer Intern at **Springer Capital**
-- Working with AWS, Docker, Kubernetes, Terraform and CI/CD.
-- Interested in SRE, Platform Engineering, DevSecOps and AIOps.
-- Learning by building, deploying and troubleshooting real-world systems.
+$ role
+Junior DevOps Engineer
 
-## Tech Stack
+$ current_focus
+Cloud Infrastructure | CI/CD | Kubernetes | SRE
 
-<div align="center">
+$ mission
+Building reliable, scalable and automated systems.
+```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,python,nginx,prometheus,grafana,git&theme=dark)](https://skillicons.dev)
+**About**
 
-</div>
+I'm a DevOps Engineer focused on cloud infrastructure, automation, container orchestration, and reliable deployment workflows. I enjoy building practical systems that bring development and operations together.
 
-**Cloud & Infrastructure:** AWS, EC2, S3, IAM, EKS, ECS, Lambda, VPC
+Currently exploring cloud-native technologies, platform engineering, DevSecOps, and AI-powered DevOps automation.
 
-**Containers & Orchestration:** Docker, Docker Compose, Kubernetes, K3s, Nomad
+---
 
-**CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD, Git, GitHub OIDC
+## `02 / INFRASTRUCTURE STACK`
 
-**Infrastructure as Code:** Terraform, Ansible, CloudFormation, AWS SAM
+| Layer | Technologies |
+|---|---|
+| Cloud | AWS |
+| Containers | Docker, Kubernetes, K3s, Nomad |
+| Infrastructure as Code | Terraform, Ansible |
+| CI/CD | GitHub Actions, Jenkins, Argo CD |
+| Monitoring | Prometheus, Grafana, Loki |
+| Security | Trivy, Docker Scout, CodeQL |
+| Programming | Python, Bash |
+| AI / Automation | Ollama, MCP, Qwen, Llama |
 
-**Monitoring & Security:** Prometheus, Grafana, Loki, Trivy, Docker Scout
+---
 
-**AI & Automation:** Python, Ollama, MCP, Qwen 2.5, Llama 3.2, n8n
+## `03 / DEPLOYED PROJECTS`
 
-## Featured Projects
+| Project | Infrastructure | Status |
+|---|---|---|
+| **[DevConnect](https://github.com/tanahmeeedsx/end-to-end-microservice-project)** | Microservices · Docker · K3s · Argo CD · Observability | Active |
+| **[DeployWatch](https://github.com/tanahmeeedsx/k8s-eks-project)** | AWS EKS · Flask · GitHub Actions · OIDC · RBAC | Built |
+| **[CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)** | AWS Lambda · API Gateway · DynamoDB · S3 · SAM | Built |
+| **[Kleos](https://github.com/tanahmeeedsx)** | MCP · Ollama · Qwen · Python · Streamlit | Exploring |
+| **[DevSecOps Agent](https://github.com/tanahmeeedsx)** | Trivy · Docker · AWS ECS · ECR · SSM | Built |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### [DevConnect](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
+## `04 / PROFESSIONAL EXPERIENCE`
 
-**End-to-End Microservices Platform**
+**DevOps Engineer Intern — Springer Capital**
 
-A 7-service cloud-native application deployed on AWS with K3s and GitOps-based delivery.
+`June 2026 – November 2026`
 
-`FastAPI` `React` `Docker` `Terraform` `K3s` `Argo CD` `Prometheus` `Grafana`
+- Working with DevOps engineering workflows.
+- Practicing CI/CD automation and infrastructure management.
+- Exploring containerization, cloud technologies, and deployment automation.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### [DeployWatch](https://github.com/tanahmeeedsx/k8s-eks-project)
+## `05 / CERTIFICATION LOG`
 
-**Kubernetes Monitoring Dashboard**
-
-An EKS dashboard with automated deployment, GitHub OIDC authentication and namespace-scoped RBAC.
-
-`Flask` `Docker` `AWS EKS` `GitHub Actions` `OIDC` `RBAC`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [CloudMentor](https://github.com/tanahmeeedsx/cloud-mentor)
-
-**Serverless AI Classroom**
-
-An AWS serverless application with infrastructure deployment and automated CI/CD.
-
-`AWS Lambda` `API Gateway` `DynamoDB` `S3` `SAM` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-### DevSecOps Agent
-
-**Container & Cloud Security Platform**
-
-A security dashboard for container vulnerability scanning and AWS infrastructure inspection.
-
-`Trivy` `Docker` `AWS SSM` `ECS` `ECR` `IAM`
-
-</td>
-</tr>
-</table>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
-
-</div>
-
-## Certifications
-
-- AWS Cloud Practitioner Essentials — Amazon Web Services
+- AWS Cloud Practitioner Essentials — AWS
 - Claude 101 — Anthropic Academy
 - DevOps and Cloud Engineering — bongoDev
 
 ---
 
+## `06 / GITHUB ACTIVITY`
+
 <div align="center">
 
-**Build. Automate. Observe. Improve.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=merko&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=merko&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tanahmeeedsx&theme=merko&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### `SYSTEM ONLINE`
+
+**Building. Automating. Monitoring. Improving.**
 
 </div>
