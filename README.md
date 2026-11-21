@@ -1,108 +1,130 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=TANJIM%20AHMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20SITE%20RELIABILITY&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="85" alt="Kubernetes Logo"/>
 
-### DevOps Engineer | Cloud & Infrastructure
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,45:0d4429,100:238636&height=200&section=header&text=TANJIM%20AHMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20SRE&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
 
-Building, automating, and monitoring reliable cloud-native systems.
+### Building Reliable Infrastructure. Automating Everything.
 
-[LinkedIn](https://linkedin.com/in/tanahmedd/) · [GitHub](https://github.com/tanahmeeedsx) · [Portfolio](https://tanjim-devops-latest-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanahmeeedsx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanahmedd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://tanjim-devops-latest-portfolio.netlify.app/)
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-I'm a Computer Engineering graduate focused on **DevOps, Cloud Engineering, and Site Reliability Engineering**. I enjoy building practical projects around cloud infrastructure, containerization, CI/CD, automation, and monitoring.
+I'm **Tanjim Ahmed**, a Computer Engineering graduate focused on DevOps, Cloud Infrastructure, and Site Reliability Engineering.
 
-Currently exploring cloud-native technologies, platform engineering, DevSecOps, and AI-powered DevOps automation.
+I enjoy building automated infrastructure, deploying containerized applications, implementing CI/CD pipelines, and monitoring distributed systems.
 
-## Tech Stack
+- ☁️ Working with AWS cloud infrastructure and services
+- ⚙️ Building CI/CD pipelines and Infrastructure as Code
+- ⎈ Exploring Kubernetes, container orchestration, and GitOps
+- 📊 Implementing monitoring, logging, and observability
+- 🔐 Learning DevSecOps, automation, and cloud security
 
-**Cloud:** AWS, EC2, EKS, ECS, IAM, S3, Lambda, API Gateway, DynamoDB
+**Current Focus:** Cloud Engineering • Kubernetes • SRE • DevSecOps
 
-**DevOps:** Docker, Kubernetes, K3s, Terraform, GitHub Actions, Jenkins, Argo CD, Nomad
+## `$ tech-stack`
 
-**Monitoring:** Prometheus, Grafana, Loki, Grafana Alloy, CloudWatch
+### Cloud & Infrastructure
 
-**Programming:** Python, Bash, JavaScript, SQL
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform" />
+</p>
 
-**Tools:** Git, Linux, FastAPI, Flask, PostgreSQL, Redis
+### Containers & Orchestration
 
-**Security & AI:** Trivy, Docker Scout, CodeQL, Ollama, MCP
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
-## Professional Experience
+### CI/CD & GitOps
 
-**Springer Capital — DevOps Engineer Intern**  
-*Jun 2026 – Nov 2026*
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+</p>
 
-Worked on DevOps workflows involving CI/CD, cloud infrastructure, containerization, automation, and deployment processes.
+### Monitoring & Observability
 
-**SkyTech Solutions — IT Support**  
-*Aug 2025 – May 2026*
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-Handled technical support, system maintenance, software configuration, and troubleshooting.
+### Programming & Development
 
-**BUBT IT Club — Executive**  
-*2024 – 2025*
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,javascript" />
+</p>
 
-Contributed to club activities, coordination, and organizational initiatives.
+## `$ experience`
 
-## Featured Projects
+| Organization | Position | Duration |
+|---|---|---|
+| **Springer Capital** | DevOps Engineer Intern | Jun 2026 – Nov 2026 |
+| **SkyTech Solutions** | IT Support | Aug 2025 – May 2026 |
+| **BUBT IT Club** | Executive | 2024 – 2025 |
 
-### DevConnect — Cloud-Native Microservices Platform
+## `$ featured-projects`
 
-A microservices-based social platform built with seven services, deployed using Kubernetes and GitOps workflows.
+### 01. DevConnect — Microservices Platform
 
-`AWS` `Terraform` `Docker` `K3s` `Argo CD` `Prometheus` `Grafana` `Loki`
+A multi-service application focused on containerization, orchestration, and GitOps-based deployment.
 
-[View Repository](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
+**Tech:** FastAPI · React · Docker · Terraform · K3s · Argo CD · Prometheus · Grafana · Loki
 
-### DeployWatch — Kubernetes Monitoring Dashboard
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/end-to-end-microservice-project)
 
-A Flask-based dashboard for monitoring Kubernetes resources on Amazon EKS, with automated CI/CD and role-based access control.
+### 02. DeployWatch — Kubernetes Monitoring Dashboard
 
-`AWS EKS` `Docker` `Kubernetes` `GitHub Actions` `IAM OIDC` `RBAC`
+An EKS-based dashboard for monitoring Kubernetes workloads, deployments, pods, and cluster events.
 
-[View Repository](https://github.com/tanahmeeedsx/k8s-eks-project)
+**Tech:** AWS EKS · Kubernetes · Flask · Docker · GitHub Actions · OIDC · RBAC
 
-### Incident Management — Observability Platform
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/k8s-eks-project)
 
-An infrastructure monitoring and incident management project using metrics, centralized logging, and visualization.
+### 03. Incident Management — Observability Stack
 
-`Prometheus` `Grafana` `Loki` `Grafana Alloy`
+A monitoring and logging environment designed to support incident investigation and infrastructure visibility.
 
-[View Repository](https://github.com/tanahmeeedsx/incident-management-v2)
+**Tech:** Prometheus · Grafana · Loki · Grafana Alloy · Docker
 
-### CloudMentor — Serverless AWS Application
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/incident-management-v2)
 
-A serverless cloud application built with AWS managed services and infrastructure as code.
+### 04. CloudMentor — Serverless AWS Application
 
-`AWS` `Lambda` `API Gateway` `DynamoDB` `S3` `SAM`
+A serverless application built using AWS managed services and Infrastructure as Code.
 
-[View Repository](https://github.com/tanahmeeedsx/cloud-mentor)
+**Tech:** AWS Lambda · API Gateway · DynamoDB · S3 · CloudFormation · SAM
 
-## Education
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/tanahmeeedsx/cloud-mentor)
+
+## `$ certifications`
+
+- AWS Cloud Practitioner Essentials — AWS (2026)
+- Claude 101 — Anthropic Academy (2026)
+- DevOps and Cloud Engineering — bongoDev (2026)
+
+## `$ education`
 
 **B.Sc. in Computer Engineering**  
 Bangladesh University of Business and Technology (BUBT)  
-*Dec 2021 – Dec 2025*
+2021 – 2025
 
-## Certifications
+---
 
-- AWS Cloud Practitioner Essentials — Amazon Web Services
-- Claude 101 — Anthropic Academy
-- DevOps and Cloud Engineering — bongoDev
-
-## GitHub Statistics
+## `$ github-stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=github_dark_dimmed&hide_border=true" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanahmeeedsx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=github-dark-blue&hide_border=true" width="75%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanahmeeedsx&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=tanahmeeedsx&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -110,6 +132,8 @@ Bangladesh University of Business and Technology (BUBT)
 
 <div align="center">
 
-**Building skills. Automating infrastructure. Improving reliability.**
+**Automate. Deploy. Monitor. Improve.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:238636&height=65&section=footer" width="100%" />
 
 </div>
